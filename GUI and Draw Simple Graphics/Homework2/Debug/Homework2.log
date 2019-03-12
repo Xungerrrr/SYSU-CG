@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Homework2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  main.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  shader.cpp
+  正在生成代码...
+  Homework2.vcxproj -> D:\Xungerrrr\SYSU\大三下\计算机图形学\SYSU CG\Homework2\Debug\GUI and Draw Simple Graphics.exe
