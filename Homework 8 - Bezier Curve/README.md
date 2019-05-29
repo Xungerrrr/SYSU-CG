@@ -5,3 +5,11 @@
 ## 报告地址
 
 https://xungerrrr.com/2019/05/29/Bezier-Curve/
+
+## Result
+
+![result](doc/result.gif)
+
+## Bonus
+
+![bonus](doc/bonus.gif)
