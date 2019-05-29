@@ -6,6 +6,10 @@
 
 https://xungerrrr.com/2019/05/29/Bezier-Curve/
 
-![result.gif](result)
+## Result
 
-![bonus.gif](bonus)
+![result](result.gif)
+
+## Bonus
+
+![bonus](bonus.gif)
